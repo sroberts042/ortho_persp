@@ -1,18 +1,18 @@
 Various test cases showing orthographic and perspective projections
 
-
-draw various lines   	      	// '1'  
-orthographic test	    	// '2'  
-orthographic scale test		// '3'  
-orthographic rotate test	// '4'  
-draw a face  		       	// '5'  
-draw four faces		        // '6'  
-orthographic cube test		// '7'  
-orthographic cube test 2	// '8'  
-perspective cube test		// '9'  
-perspective cube test 2		// '0'  
-perspective axes test 		// 'p'  
-orthographic axes test 		// 'o'  
+key mapping:  
+1: draw various lines  
+2: orthographic test   
+3: orthographic scale test  
+4: orthographic rotate test  
+5: draw a face  
+6: draw four faces     
+7: orthographic cube test  
+8: orthographic cube test 2  
+9: perspective cube test  
+0: perspective cube test 2  
+p: perspective axes test  
+o: orthographic axes test  
 
 
 Project was to implement mathlib functions to calculate orthographic and perspective projections (TODO functions)
